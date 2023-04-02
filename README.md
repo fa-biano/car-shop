@@ -48,8 +48,6 @@ Clone o repositório: `git clone git@github.com:fa-biano/car-shop.git`.
 
   Suba os containers do docker compose `docker compose up -d`
 
-  Acesse o container `node` que está rodando em segundo plano `docker exec -it car_shop bash`
-
   <!-- Dentro do container: 
   - Instale as dependências `npm install`
 
