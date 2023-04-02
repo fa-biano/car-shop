@@ -3,13 +3,13 @@
 Nesse projeto foi desenvolvida uma API REST e um banco de dados para gerenciamento de um loja de veículos. </br>
 Foram implementados endpoints que realizam um CRUD e gerenciam os carros e motos disponíveis.
 
-O objetivo principal foi de exercitar os conhecimentos sobre de Typscript, Orientação a Objetos (POO), classes de domínio, interfaces e enum, banco de dados NoSQL MongoDB com modelagem pelo Mongoose, além da implementação de middleware de erros e os conceitos da arquitetura MSC (Model, Service e Controller).
+O objetivo principal foi de exercitar os conhecimentos sobre Typscript, Orientação a Objetos (POO), classes de domínio, interfaces e enum, banco de dados NoSQL MongoDB com modelagem pelo Mongoose, além da implementação de middleware de erros e os conceitos da arquitetura MSC (Model, Service e Controller).
 
 O desenvolvimento desse projeto foi realizado durante o curso de Desenvolvimento Web na [Trybe](https://www.betrybe.com/)!
 
 ## Como utilizar:
 
-Clone o repositório: `git clone link`.
+Clone o repositório: `git clone git@github.com:fa-biano/car-shop.git`.
 
 <details>
   <summary><strong>Rodando com Docker :whale: ou Localmente</strong></summary>
